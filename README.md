@@ -1,6 +1,11 @@
--👋 Hi, I’m @YoyoHJL
--👀 I’m interested in AI and Big Data
--🌱 I’m currently learning React and Deep Learning  
--💞️ I'm looking to collaborate on open-source AI projects and many kinds of fields √
--📫 How to reach me : send emils
--⚡ Fun fact: Drawing and Music
+👋 Hi, I’m @YoyoHJL
+
+👀 I’m interested in AI and Big Data
+
+🌱 I’m currently learning React and Deep Learning  
+
+💞️ I'm looking to collaborate on open-source AI projects and many kinds of fields √
+
+📫 How to reach me : send emils
+
+⚡ Fun fact: Drawing and Music
